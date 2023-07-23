@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-During my free time, I engage in various activities:
+During my spare time, I engage in various activities:
 
 - Addressing LLVM issues.
 - Resolving Rust issues labeled as A-LLVM.
