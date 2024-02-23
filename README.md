@@ -13,6 +13,8 @@ During my spare time, I engage in various activities:
 If you need to contact me for any reason, feel free to send me an email at dianqk📧dianqk.net.
 You can also contact me as follows.
 
+<details><summary>Other contact details</summary>
+<p>
 <table>
     <thead>
         <tr>
@@ -31,3 +33,6 @@ You can also contact me as follows.
         </tr>
     </tbody>
 </table>
+</p>
+</details> 
+
