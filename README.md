@@ -10,4 +10,24 @@ During my spare time, I engage in various activities:
 - Improving my English language skills.
 - Playing Splatoon 3.
 
-If you need to contact me for any reason, feel free to send me an email at dianqk📧dianqk.net. You can also reach me through [telegram](https://t.me/dianqk).
+If you need to contact me for any reason, feel free to send me an email at dianqk📧dianqk.net.
+You can also contact me as follows.
+
+<table>
+    <thead>
+        <tr>
+            <th>WhatsApp</th>
+            <th>Telegram</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="./whatsapp.jpg" alt="" style="width: 300px; height: 300px;" /></td>
+            <td><img src="./telegram.jpg" alt="" style="width: 300px; height: 300px;" /></td>
+        </tr>
+        <tr align="center">
+            <td>https://wa.me/qr/P5C6UX47WWZOG1</td>
+            <td>https://t.me/dianqk</td>
+        </tr>
+    </tbody>
+</table>
