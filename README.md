@@ -2,8 +2,8 @@
 
 During my spare time, I engage in various activities:
 
-- Addressing LLVM issues.
-- Resolving Rust issues labeled as [A-LLVM](https://github.com/rust-lang/rust/issues?q=is%3Aissue+label%3AA-LLVM+assignee%3ADianQK+is%3Aopen) or [A-mir-opt](https://github.com/rust-lang/rust/issues?q=is%3Aopen+label%3AA-mir-opt+assignee%3ADianQK).
+- Addressing LLVM [issues](https://github.com/llvm/llvm-project/issues/assigned/DianQK).
+- Addressing Rust issues labeled as [A-LLVM](https://github.com/rust-lang/rust/issues?q=is%3Aissue+label%3AA-LLVM+assignee%3ADianQK+is%3Aopen) or [A-mir-opt](https://github.com/rust-lang/rust/issues?q=is%3Aopen+label%3AA-mir-opt+assignee%3ADianQK).
 - Developing the Ruslin note-taking application.
 - Expanding my knowledge of programming languages.
 - Learning Neovim.
