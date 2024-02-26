@@ -33,6 +33,6 @@ You can also contact me as follows.
         </tr>
     </tbody>
 </table>
+<blockquote>If I don't respond in time, please send an email.</blockquote>
 </p>
-</details> 
-
+</details>
